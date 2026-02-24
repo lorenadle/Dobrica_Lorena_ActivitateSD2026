@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36616.10 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Activitate_SDD_2026", "Activitate_SDD_2026.vcxproj", "{418A7456-3820-49A4-BB33-9B9CCCBFD1FA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{418A7456-3820-49A4-BB33-9B9CCCBFD1FA}.Debug|x64.ActiveCfg = Debug|x64
+		{418A7456-3820-49A4-BB33-9B9CCCBFD1FA}.Debug|x64.Build.0 = Debug|x64
+		{418A7456-3820-49A4-BB33-9B9CCCBFD1FA}.Debug|x86.ActiveCfg = Debug|Win32
+		{418A7456-3820-49A4-BB33-9B9CCCBFD1FA}.Debug|x86.Build.0 = Debug|Win32
+		{418A7456-3820-49A4-BB33-9B9CCCBFD1FA}.Release|x64.ActiveCfg = Release|x64
+		{418A7456-3820-49A4-BB33-9B9CCCBFD1FA}.Release|x64.Build.0 = Release|x64
+		{418A7456-3820-49A4-BB33-9B9CCCBFD1FA}.Release|x86.ActiveCfg = Release|Win32
+		{418A7456-3820-49A4-BB33-9B9CCCBFD1FA}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6C23158A-F3B0-4173-8240-23BF87940498}
+	EndGlobalSection
+EndGlobal
