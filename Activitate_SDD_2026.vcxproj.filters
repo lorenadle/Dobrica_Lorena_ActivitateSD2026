@@ -15,7 +15,52 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="ListaDubla.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="AT1.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="At2_ID_8Martie.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="At12.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
     <ClCompile Include="ex1.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ex2.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ex_Vector.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ex_Fisiere_Masina.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Intalnire21Februarie.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Intalnire21Februrie_LSI.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ListaSimplaInlantuita.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ex_Carte_lista_dubla.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Intalnire_ID_14Mar.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Intalnire_ID_14Mar_2.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ex3.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ex4.c">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
