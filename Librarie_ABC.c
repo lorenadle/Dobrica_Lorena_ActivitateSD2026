@@ -185,7 +185,7 @@ int main() {
 	printf("Inaltime arbore:%d\n", calculeazaInaltimeArbore(rad));
 	printf("Pret total:%.2f\n", calculeazaPretTotal(rad));
 	printf("Suma preturilor cartilor unui autor:%.2f\n",
-		calculeazaPretulCartilorUnuiAutor(rad, "Gheorghe"));
+		calculeazaPretulCartilorUnuiAutor(rad, "Preda"));
 
 	dezalocareArboreDeLibrarii(&rad);
 	return 0;
